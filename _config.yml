@@ -2,7 +2,8 @@ title: Thr3D33
 description: "333"
 baseurl: ""
 url: https://thr3d33.xyz
-theme: cvless
+#theme: cvless
+remote_theme: cvless
 cv: false
 # site settings
 #taglong: Profile Page
