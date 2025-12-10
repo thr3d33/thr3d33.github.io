@@ -1,0 +1,42 @@
+#title: Thr3D33
+description: "333"
+baseurl: ""
+url: https://thr3d33.xyz
+
+theme: cvless
+cv: false
+# site settings
+#taglong: Profile Page
+#tagshort: Profile
+
+# author settings
+author:
+  name: Thr3D33
+#photo: assets/img/thr3d33-moon-no-3.png
+photo: assets/img/thr3d33-moon.png
+
+# profile links
+profile:
+  mastodon: https://mastodon.social/@thr3d33
+#  instagram: https://www.instagram.com/username
+  linkedin: https://www.linkedin.com/in/thr3d33
+  github: https://github.com/thr3d33
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
