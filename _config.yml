@@ -17,6 +17,7 @@ profile:
   mastodon: https://mastodon.social/@thr3d33
   linkedin: https://www.linkedin.com/in/thr3d33
   github: https://github.com/thr3d33
+  blog: https://fshng.xyz
 # build settings
 permalink: pretty
 exclude:
